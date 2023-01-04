@@ -1,4 +1,10 @@
 ### Hi there 👋
+## This is alt github of
+# [sKaiCzar](github.com/sKaiCzar)
+Aim:
+- Provide drivers and configs
+- Foss development and community
+- maintenance
 
 <!--
 **skzxer/skzxer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
